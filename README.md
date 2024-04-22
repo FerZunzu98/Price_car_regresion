@@ -13,6 +13,7 @@ En linux => `source nombre_entorno/bin/activate`
 Instalar todas las dependencias necesarias para el proyecto a través de => `pip install -r requirements.txt`
 
 ### Paso 5:
+Crear una carpeta llamada modelos_entrenados en el que guardar los modelos. 
 Acceder a la carpeta `cd ./modelos/`
 Ejecutar al completo el Notebook RandomForest.ipynb para entrenar al modelo que se usará en Streamlit.
 Volver a la carpeta raiz `cd ..`
