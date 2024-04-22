@@ -29,3 +29,7 @@ Iniciar el servidor de streamlit:  `streamlit run "machine_learning\app.py"`
 > [!WARNING]  
 > En el paso 8 la ruta especificada es la ruta relativa, de no funcionar es necesario especificar la ruta completa al archivo.
 > En visual estudio lo puedes hacer con click derecho sobre el archivo y copiar ruta.
+
+> [!NOTE]  
+> Se recomienda utilizar una consola gitbash para el correcto funcionamiendo de la configuración del entorno virtual de python.
+> 
