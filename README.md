@@ -14,9 +14,7 @@ Instalar todas las dependencias necesarias para el proyecto a través de => `pip
 
 ### Paso 5:
 Crear una carpeta llamada modelos_entrenados en el que guardar los modelos => `mkdir modelos_entrenados` <br> 
-Acceder a la carpeta `cd ./modelos/` <br> 
-Ejecutar el script RandomForest.py para entrenar el modelo que se usará en Streamlit => `python RandomForest.py` <br> 
-Volver a la carpeta raiz `cd ..`
+Ejecutar el script RandomForest.py para entrenar el modelo que se usará en Streamlit => `python ./modelos/RandomForest.py` <br> 
 
 ### Paso 6:
 Acceder a la carpeta del proyecto de streamlit: `cd ./machine_learning/`
@@ -25,9 +23,9 @@ Acceder a la carpeta del proyecto de streamlit: `cd ./machine_learning/`
 Iniciar el servidor de streamlit:  `streamlit run "machine_learning\app.py"`
 
 > [!WARNING]  
-> En el paso 8 la ruta especificada es la ruta relativa, de no funcionar es necesario especificar la ruta completa al archivo.
+> En el paso 7 la ruta especificada es la ruta relativa, de no funcionar es necesario especificar la ruta completa al archivo.
 > En visual estudio lo puedes hacer con click derecho sobre el archivo y copiar ruta.
 
 > [!NOTE]  
-> Se recomienda utilizar una consola gitbash para el correcto funcionamiendo de la configuración del entorno virtual de python.
+> Se recomienda utilizar una consola gitbash para el correcto funcionamiendo a la hora de configurar el entorno virtual de python.
 > 
