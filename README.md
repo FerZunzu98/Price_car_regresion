@@ -19,7 +19,7 @@ Ejecutar el script RandomForest.py para entrenar el modelo que se usará en Stre
 Volver a la carpeta raiz `cd ..`
 
 ### Paso 6:
-Acceder a la carpeta del proyecto: `cd ./machine_learning/`s
+Acceder a la carpeta del proyecto de streamlit: `cd ./machine_learning/`
 
 ### Paso 7:
 Iniciar el servidor de streamlit:  `streamlit run "machine_learning\app.py"`
