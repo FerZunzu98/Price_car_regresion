@@ -14,8 +14,8 @@ Instalar todas las dependencias necesarias para el proyecto a través de => `pip
 
 ### Paso 5:
 Crear una carpeta llamada modelos_entrenados en el que guardar los modelos => `mkdir modelos_entrenados` <br> 
-Acceder a la carpeta `cd ./modelos/`
-Ejecutar el script RandomForest.py para entrenar el modelo que se usará en Streamlit => `python RandomForest.py`
+Acceder a la carpeta `cd ./modelos/` <br> 
+Ejecutar el script RandomForest.py para entrenar el modelo que se usará en Streamlit => `python RandomForest.py` <br> 
 Volver a la carpeta raiz `cd ..`
 
 ### Paso 6:
