@@ -13,18 +13,15 @@ En linux => `source nombre_entorno/bin/activate`
 Instalar todas las dependencias necesarias para el proyecto a través de => `pip install -r requirements.txt`
 
 ### Paso 5:
-Crear una carpeta llamada modelos_entrenados en el que guardar los modelos. 
+Crear una carpeta llamada modelos_entrenados en el que guardar los modelos => `mkdir modelos_entrenados` <br> 
 Acceder a la carpeta `cd ./modelos/`
-Ejecutar al completo el Notebook RandomForest.ipynb para entrenar al modelo que se usará en Streamlit.
+Ejecutar el script RandomForest.py para entrenar el modelo que se usará en Streamlit => `python RandomForest.py`
 Volver a la carpeta raiz `cd ..`
 
 ### Paso 6:
 Acceder a la carpeta del proyecto: `cd ./machine_learning/`s
 
 ### Paso 7:
-Instalar las dependencias para el cliente web: `pip install -r requirements.txt`
-
-### Paso 8:
 Iniciar el servidor de streamlit:  `streamlit run "machine_learning\app.py"`
 
 > [!WARNING]  
