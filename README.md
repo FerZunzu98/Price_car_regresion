@@ -1,7 +1,7 @@
 ### Paso 1:
 Descargar o clonar el proyecto. <br>
 `git clone enlace_repositorio`<br>
-`cd Price_car_regresion`<br>
+Acceder a la carpeta del proyecto => `cd Price_car_regresion`<br>
 
 ### Paso 2:
 Crear un entorno virtual => `python -m venv nombre_entorno`
