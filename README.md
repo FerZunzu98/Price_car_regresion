@@ -1,6 +1,5 @@
 ### Paso 1:
-Descargar o clonar el proyecto. <br>
-`git clone enlace_repositorio`<br>
+Descargar o clonar el proyecto => `git clone enlace_repositorio`<br>
 Acceder a la carpeta del proyecto => `cd Price_car_regresion`<br>
 
 ### Paso 2:
